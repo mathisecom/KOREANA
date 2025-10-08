@@ -706,6 +706,13 @@
             "title": "Is it safe for sensitive skin?",
             "content": "<p>The White Rice version is formulated with <strong>hydrating rice water + niacinamide</strong> to help calm skin while exfoliating. Sensitive users should patch test and start slowly. For very reactive skin, consult your dermatologist before use.</p>"
           }
+        },
+        "item_H7Pr84": {
+          "type": "item",
+          "settings": {
+            "title": "Is the peeling I see just the product rolling up?",
+            "content": "<p>The gel does form soft clumps as you massage it in that’s how it lifts away dead skin cells and surface buildup. What you’re seeing is <strong>both the formula binding with old skin + impurities</strong>, which is why your skin feels smoother right after rinsing. This texture is normal and part of how the Peel Shot works.</p>"
+          }
         }
       },
       "block_order": [
@@ -713,7 +720,8 @@
         "item_iyQpnV",
         "item_EcGTLd",
         "item_E634LM",
-        "item_UhwCKj"
+        "item_UhwCKj",
+        "item_H7Pr84"
       ],
       "name": "FAQ",
       "settings": {
