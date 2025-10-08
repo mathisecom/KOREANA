@@ -643,7 +643,7 @@
         "full_width": true,
         "subheading": "Our customer service is available 7 days a week. Average response time: 24 hours.",
         "title": "Have a question?",
-        "content": "",
+        "content": "<p>Write to us using the form below, and we will get back to you as soon as possible.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
