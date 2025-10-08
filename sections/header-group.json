@@ -17,12 +17,13 @@
         "message_edi38D": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "FALL SALE  – Up to 50% Off",
             "url": ""
           }
         },
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping",
             "url": ""
