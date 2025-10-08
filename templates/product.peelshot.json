@@ -476,6 +476,67 @@
         "input_text_color": ""
       }
     },
+    "text_with_icons_QzDBD8": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_tFHrEQ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
+          }
+        },
+        "item_XHf8DG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
+          }
+        },
+        "item_Jbc6pU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_tFHrEQ",
+        "item_XHf8DG",
+        "item_Jbc6pU"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "Amazing Results!",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_JWDBUP": {
       "type": "logo-list",
       "blocks": {
@@ -705,6 +766,7 @@
     "slideshow_EjRrCE",
     "multi_column_4rwDtF",
     "main",
+    "text_with_icons_QzDBD8",
     "logo_list_JWDBUP",
     "scrolling_text_PJLb9H",
     "media_with_text_43irFE",
