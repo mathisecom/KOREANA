@@ -476,70 +476,6 @@
         "input_text_color": ""
       }
     },
-    "text_with_icons_QzDBD8": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_tFHrEQ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_29.png",
-            "mobile_icon_width": 68,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#fbf5f6",
-            "icon_color": "",
-            "title": "",
-            "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
-          }
-        },
-        "item_XHf8DG": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_31.png",
-            "mobile_icon_width": 68,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#fbf5f6",
-            "icon_color": "",
-            "title": "",
-            "content": "<p>See a significant reduction in blackheads and visibly clearer skin.</p>"
-          }
-        },
-        "item_Jbc6pU": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Titre_30.png",
-            "mobile_icon_width": 68,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#fbf5f6",
-            "icon_color": "",
-            "title": "",
-            "content": "<p>Find their skin texture refined after just two uses.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_tFHrEQ",
-        "item_XHf8DG",
-        "item_Jbc6pU"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "Amazing Results!",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_JWDBUP": {
       "type": "logo-list",
       "blocks": {
@@ -615,6 +551,70 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "text_with_icons_QzDBD8": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_tFHrEQ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_29.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#fbf5f6",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
+          }
+        },
+        "item_XHf8DG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_31.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#fbf5f6",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>See a significant reduction in blackheads and visibly clearer skin.</p>"
+          }
+        },
+        "item_Jbc6pU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Titre_30.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#fbf5f6",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Find their skin texture refined after just two uses.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_tFHrEQ",
+        "item_XHf8DG",
+        "item_Jbc6pU"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "Amazing Results!",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "scrolling_text_PJLb9H": {
@@ -769,9 +769,9 @@
     "slideshow_EjRrCE",
     "multi_column_4rwDtF",
     "main",
-    "text_with_icons_QzDBD8",
     "logo_list_JWDBUP",
     "scrolling_text_PJLb9H",
+    "text_with_icons_QzDBD8",
     "media_with_text_43irFE",
     "faq_AxrYBf",
     "contact_nJUMwq"
