@@ -152,6 +152,7 @@
         "item_kCmPdT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_97.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
