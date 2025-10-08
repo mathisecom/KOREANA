@@ -185,6 +185,8 @@
         "image_LeJEaM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_5fa9c652-94d4-4a02-9e7f-25bf90f5298a.jpg",
+            "mobile_image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop.jpg",
             "content_max_width": 700,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
