@@ -850,7 +850,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Olivia A.",
+            "author": "July C.",
             "title": "Soft, smooth skin all over your body",
             "content": "<p>I have dry skin, and most exfoliants make it worse. But this one actually hydrates while exfoliating. My skin feels nourished, smooth, and glowing every single time!</p>"
           }
@@ -878,6 +878,48 @@
         "heading_gradient": "",
         "testimonial_card_background": "#fbf5f6",
         "testimonial_card_text_color": ""
+      }
+    },
+    "rich_text_DqXKkk": {
+      "type": "rich-text",
+      "blocks": {
+        "image_yCLGWJ": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 100
+          }
+        },
+        "heading_TUy4wD": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "#ffffff",
+            "gradient": ""
+          }
+        },
+        "richtext_Mmi8bY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_yCLGWJ",
+        "heading_TUy4wD",
+        "richtext_Mmi8bY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#c17982",
+        "background_gradient": "",
+        "text_color": "#ffffff"
       }
     },
     "faq_AxrYBf": {
@@ -995,6 +1037,7 @@
     "rich_text_9rrAmc",
     "image_link_blocks_xydKyX",
     "testimonials_6UYeEt",
+    "rich_text_DqXKkk",
     "faq_AxrYBf",
     "contact_nJUMwq"
   ]
