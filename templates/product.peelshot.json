@@ -647,10 +647,10 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Reveal Nourished, Hydrated, and Healthy Skin",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Give your skin the care it deserves with our range of products enriched with natural ingredients. Designed to nourish, hydrate, and soothe, they help you achieve a radiant complexion and healthy-looking skin.</p><p><strong>Perfect for your daily beauty routine or a relaxing self-care moment.</strong></p>",
             "link_text": "BUY NOW",
             "link_url": "",
-            "background": "#ffffff",
+            "background": "#fbf5f6",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -664,7 +664,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
