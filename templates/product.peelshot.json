@@ -553,6 +553,22 @@
         "logo_item_border": ""
       }
     },
+    "scrolling_text_PJLb9H": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Gentle And Safe, Even For Sensitive Skin",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 6,
+        "background": "#c17982",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "text_with_icons_QzDBD8": {
       "type": "text-with-icons",
       "blocks": {
@@ -615,22 +631,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling_text_PJLb9H": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#c17982",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
       }
     },
     "media_with_text_43irFE": {
