@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_TE4wyz": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Tgpqyb": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Tgpqyb"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "logo_list_tTrQYD": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_netgdL": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_pmHXKH": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_R6cNwy": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_mebBFH": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_netgdL",
+        "logo_pmHXKH",
+        "logo_R6cNwy",
+        "logo_mebBFH"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "<h6><strong>AS SEEN ON:</strong></h6>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_ExAYDx": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_kkBVYT\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <!-- Import Material Icons -->\n    <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\n\n    <div class=\"product__text-container\" style=\"padding:0px;\">\n      \n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Instantly removes dead skin cells</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Unclogs pores and reduces blackheads</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Brightens dull skin for a “glass skin” glow</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Gentle and safe, even for sensitive skin</span>\n      </p>\n\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "collapsible_text_9nNwLk": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_9rBhge": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ingredients List",
+            "content": "<ul><li><strong>Exfoliants:</strong> Glycolic Acid (AHA), Lactic Acid (AHA), Salicylic Acid (BHA), Gluconolactone (PHA)<br/></li><li><strong>Brighteners:</strong> Niacinamide, Rice Ferment Filtrate, Rice Bran Water, Black Rice Extract<br/></li><li><strong>Hydrators:</strong> Glycerin, Sodium Hyaluronate, Butylene Glycol, Betaine<br/></li><li><strong>Soothers:</strong> Panthenol, Allantoin, Dipotassium Glycyrrhizate<br/></li><li><strong>Texture/Support:</strong> Hydroxyethylcellulose, Carbomer, PEG/PPG-17/6 Copolymer<br/></li><li><strong>pH adjusters/preservatives:</strong> Tromethamine, Disodium EDTA, Ethylhexylglycerin, 1,2-Hexanediol</li></ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "liquid_ExAYDx",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible_text_9nNwLk",
+        "collapsible_text_9rBhge"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_TE4wyz",
+    "logo_list_tTrQYD",
+    "main",
+    "related-products"
+  ]
+}
