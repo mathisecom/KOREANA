@@ -671,6 +671,67 @@
         "spacing": "none"
       }
     },
+    "testimonials_6UYeEt": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_jRX4fQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_KgRPRY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_brAXJX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_jRX4fQ",
+        "testimonial_KgRPRY",
+        "testimonial_brAXJX"
+      ],
+      "disabled": true,
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq_AxrYBf": {
       "type": "faq",
       "blocks": {
@@ -783,6 +844,7 @@
     "scrolling_text_PJLb9H",
     "text_with_icons_QzDBD8",
     "media_with_text_43irFE",
+    "testimonials_6UYeEt",
     "faq_AxrYBf",
     "contact_nJUMwq"
   ]
