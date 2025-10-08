@@ -406,7 +406,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Sensitive_Skin_Friendly.webp",
-            "logo_width": 70,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -414,7 +414,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Dry_Skin_Friendly.webp",
-            "logo_width": 70,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -422,7 +422,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Oily_Skin_Friendly.webp",
-            "logo_width": 70,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -430,7 +430,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cruellty_Free.webp",
-            "logo_width": 70,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -438,14 +438,15 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Exfoliating.webp",
-            "logo_width": 70,
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_aj9JYr": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Vegan.webp",
+            "logo_width": 80,
             "link": ""
           }
         }
