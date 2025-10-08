@@ -843,12 +843,24 @@
             "title": "The only exfoliant that truly delivers results",
             "content": "<p>After just two uses, my pores looked smaller and my skin tone more even. It feels like I had a professional facial at home. Super gentle and smells amazing too!</p>"
           }
+        },
+        "testimonial_MX9Jn6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Olivia A.",
+            "title": "The only exfoliant that truly delivers results",
+            "content": "<p>After just two uses, my pores looked smaller and my skin tone more even. It feels like I had a professional facial at home. Super gentle and smells amazing too!</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_jRX4fQ",
         "testimonial_KgRPRY",
-        "testimonial_brAXJX"
+        "testimonial_brAXJX",
+        "testimonial_MX9Jn6"
       ],
       "name": "Testimonials",
       "settings": {
@@ -864,7 +876,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
+        "testimonial_card_background": "#fbf5f6",
         "testimonial_card_text_color": ""
       }
     },
