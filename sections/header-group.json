@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_edi38D": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -31,12 +38,13 @@
         "message_JjMRNK": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "More Than 1,500 Happy Customers",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_edi38D",
         "message",
         "message_Jfew7x",
         "message_JjMRNK"
