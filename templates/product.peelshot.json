@@ -674,6 +674,12 @@
     "rich_text_9rrAmc": {
       "type": "rich-text",
       "blocks": {
+        "subheading_ypbzxb": {
+          "type": "subheading",
+          "settings": {
+            "text": "★★★★★ Rated 4,8/5"
+          }
+        },
         "heading_7cjfkp": {
           "type": "heading",
           "settings": {
@@ -685,6 +691,7 @@
         }
       },
       "block_order": [
+        "subheading_ypbzxb",
         "heading_7cjfkp"
       ],
       "name": "Rich text",
