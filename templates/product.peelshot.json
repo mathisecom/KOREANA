@@ -56,28 +56,32 @@
         "logo_netgdL": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/VOG_1.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_pmHXKH": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/COS.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_R6cNwy": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/MAR.png",
+            "logo_width": 80,
             "link": ""
           }
         },
         "logo_mebBFH": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ALL.png",
+            "logo_width": 80,
             "link": ""
           }
         }
