@@ -319,8 +319,8 @@
         "collapsible_text_9nNwLk": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
+            "icon": "picto-box",
+            "icon_width": 16,
             "title": "Shipping Information",
             "content": "<p>Order Today, Shipped Tomorrow. Delivery in <strong>5–7 Business Days</strong> with Tracking.</p>",
             "page": ""
@@ -329,8 +329,8 @@
         "collapsible_text_9rBhge": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
+            "icon": "picto-leaf",
+            "icon_width": 16,
             "title": "Ingredients List",
             "content": "<ul><li><strong>Exfoliants:</strong> Glycolic Acid (AHA), Lactic Acid (AHA), Salicylic Acid (BHA), Gluconolactone (PHA)<br/></li><li><strong>Brighteners:</strong> Niacinamide, Rice Ferment Filtrate, Rice Bran Water, Black Rice Extract<br/></li><li><strong>Hydrators:</strong> Glycerin, Sodium Hyaluronate, Butylene Glycol, Betaine<br/></li><li><strong>Soothers:</strong> Panthenol, Allantoin, Dipotassium Glycyrrhizate<br/></li><li><strong>Texture/Support:</strong> Hydroxyethylcellulose, Carbomer, PEG/PPG-17/6 Copolymer<br/></li><li><strong>pH adjusters/preservatives:</strong> Tromethamine, Disodium EDTA, Ethylhexylglycerin, 1,2-Hexanediol</li></ul>",
             "page": ""
