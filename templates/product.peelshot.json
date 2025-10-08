@@ -671,6 +671,32 @@
         "spacing": "none"
       }
     },
+    "rich_text_9rrAmc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7cjfkp": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 SATISFIED WOMEN",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7cjfkp"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_xydKyX": {
       "type": "image-link-blocks",
       "blocks": {
@@ -947,6 +973,7 @@
     "scrolling_text_PJLb9H",
     "text_with_icons_QzDBD8",
     "media_with_text_43irFE",
+    "rich_text_9rrAmc",
     "image_link_blocks_xydKyX",
     "testimonials_6UYeEt",
     "faq_AxrYBf",
