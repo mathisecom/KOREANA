@@ -260,7 +260,7 @@
         "liquid_EgThHb": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Bij9WM\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"product-info__block-item\" data-block-id=\"liquid_7xXm48\" data-block-type=\"liquid\">\n      <div class=\"product-info__liquid\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <style>\n              .badges-container {\n                display: flex;\n                gap: 6px; /* Space between badges */\n                align-items: center;\n                margin-bottom: 20px; /* Add space below */\n              }\n\n              .badge {\n                display: inline-block;\n                padding: 4px 10px;\n                font-size: 12px;\n                font-weight: bold;\n                color: white;\n                background: #C17982; /* Updated color */\n                border-radius: 15px;\n                text-transform: uppercase;\n                white-space: nowrap;\n              }\n            </style>\n\n            <div class=\"badges-container\">\n              <div class=\"badge\">BEST SELLER</div>\n              <div class=\"badge\"> FALL SALE: 30% OFF </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "title": {
@@ -415,12 +415,28 @@
             "title": "Any question?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "item_E634LM": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_UhwCKj": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
         }
       },
       "block_order": [
         "item_FnPjiA",
         "item_iyQpnV",
-        "item_EcGTLd"
+        "item_EcGTLd",
+        "item_E634LM",
+        "item_UhwCKj"
       ],
       "name": "FAQ",
       "settings": {
