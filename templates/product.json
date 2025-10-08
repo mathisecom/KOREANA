@@ -174,7 +174,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Ingredients List",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<ul><li><strong>Exfoliants:</strong> Glycolic Acid (AHA), Lactic Acid (AHA), Salicylic Acid (BHA), Gluconolactone (PHA)<br/></li><li><strong>Brighteners:</strong> Niacinamide, Rice Ferment Filtrate, Rice Bran Water, Black Rice Extract<br/></li><li><strong>Hydrators:</strong> Glycerin, Sodium Hyaluronate, Butylene Glycol, Betaine<br/></li><li><strong>Soothers:</strong> Panthenol, Allantoin, Dipotassium Glycyrrhizate<br/></li><li><strong>Texture/Support:</strong> Hydroxyethylcellulose, Carbomer, PEG/PPG-17/6 Copolymer<br/></li><li><strong>pH adjusters/preservatives:</strong> Tromethamine, Disodium EDTA, Ethylhexylglycerin, 1,2-Hexanediol</li></ul>",
             "page": ""
           }
         }
