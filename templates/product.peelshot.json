@@ -486,7 +486,7 @@
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fbf5f6",
             "icon_color": "",
             "title": "",
             "content": "<p>Of users notice smoother and softer skin immediately after application.</p>"
@@ -499,7 +499,7 @@
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fbf5f6",
             "icon_color": "",
             "title": "",
             "content": "<p>See a significant reduction in blackheads and visibly clearer skin.</p>"
@@ -512,7 +512,7 @@
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#fbf5f6",
             "icon_color": "",
             "title": "",
             "content": "<p>Find their skin texture refined after just two uses.</p>"
