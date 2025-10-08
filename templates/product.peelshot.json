@@ -221,6 +221,7 @@
         "item_CKgdXW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_-_2025-10-08T111823.366.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
