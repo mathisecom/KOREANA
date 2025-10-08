@@ -894,7 +894,7 @@
         "heading_TUy4wD": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Try it for 30 days for free",
             "heading_tag": "h1",
             "text_color": "#ffffff",
             "gradient": ""
@@ -903,14 +903,26 @@
         "richtext_Mmi8bY": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>We’re confident you’ll love your results, but if you’re not 100% satisfied, simply return it within 30 days for a full refund. Your satisfaction is our priority.</p>"
+          }
+        },
+        "button_pzCaeh": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "BUY NOW",
+            "url": "#shopify-section shopify-section--main-product",
+            "background": "#fbf5f6",
+            "text_color": "#000000"
           }
         }
       },
       "block_order": [
         "image_yCLGWJ",
         "heading_TUy4wD",
-        "richtext_Mmi8bY"
+        "richtext_Mmi8bY",
+        "button_pzCaeh"
       ],
       "name": "Rich text",
       "settings": {
