@@ -247,6 +247,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_BEH6Ag": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -319,6 +325,7 @@
         }
       },
       "block_order": [
+        "liquid_BEH6Ag",
         "title",
         "badges",
         "price",
