@@ -111,6 +111,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_cwWTpk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fTbcGA": {
+          "type": "heading",
+          "settings": {
+            "text": "See the Difference :",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_fTbcGA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_ghEcrY": {
       "type": "slideshow",
       "blocks": {
@@ -137,6 +163,73 @@
       },
       "block_order": [
         "image_UNYNhb"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_aAURDn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yej9By": {
+          "type": "heading",
+          "settings": {
+            "text": "Why You Should Choose it",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yej9By"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_EjRrCE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LeJEaM": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 700,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LeJEaM"
       ],
       "name": "Slideshow",
       "settings": {
@@ -574,7 +667,10 @@
   "order": [
     "slideshow_TE4wyz",
     "logo_list_tTrQYD",
+    "rich_text_cwWTpk",
     "slideshow_ghEcrY",
+    "rich_text_aAURDn",
+    "slideshow_EjRrCE",
     "multi_column_4rwDtF",
     "main",
     "logo_list_JWDBUP",
