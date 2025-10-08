@@ -307,6 +307,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_JmTaC7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"shopify-block-AbnNTSktUa2JRYy81U__ai_gen_block_1103b2d_rTFQ8L\" class=\"shopify-block\">\n\n\n\n<style data-shopify=\"\">\n  .ai-stock-status-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    font-family: Muli, sans-serif;\n    font-size: 12px;\n    line-height: 1.2;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    flex-shrink: 0;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out {\n    background-color: #ff8c00;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--out-of-stock {\n    background-color: #dc2626;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--in-stock {\n    background-color: #16a34a;\n    animation: ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l 1.5s ease-in-out infinite;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    margin: 0;\n    font-weight: 500;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out {\n    color: #ff8c00;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--out-of-stock {\n    color: #dc2626;\n  }\n\n  .ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--in-stock {\n    color: #16a34a;\n  }\n\n  @keyframes ai-stock-pulse-abnntsktua2jryy81uaigenblock1103b2drtfq8l {\n    0% {\n      opacity: 1;\n      transform: scale(1);\n    }\n    50% {\n      opacity: 0.5;\n      transform: scale(0.9);\n    }\n    100% {\n      opacity: 1;\n      transform: scale(1);\n    }\n  }\n</style>\n\n<div class=\"ai-stock-status-abnntsktua2jryy81uaigenblock1103b2drtfq8l\">\n  \n      <div class=\"ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l ai-stock-status-dot-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out\"></div>\n      <span class=\"ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l ai-stock-status-text-abnntsktua2jryy81uaigenblock1103b2drtfq8l--almost-out\">Almost out of stock</span>\n    \n</div>\n\n</div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -375,6 +381,7 @@
         "liquid_ExAYDx",
         "variant_picker",
         "quantity_selector",
+        "liquid_JmTaC7",
         "buy_buttons",
         "liquid_naeJmh",
         "liquid_ykbqW6",
