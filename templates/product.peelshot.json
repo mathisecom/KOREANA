@@ -689,8 +689,8 @@
         "item_EcGTLd": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I use this with retinol or tretinoin?",
+            "content": "<p>We recommend <strong>not using on the same night</strong> as strong actives like retinoids, vitamin C, or benzoyl peroxide to avoid over-exfoliation. Alternate nights are best.</p>"
           }
         },
         "item_E634LM": {
