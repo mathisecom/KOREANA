@@ -677,6 +677,7 @@
         "item_4p7KBB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_59.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -689,6 +690,7 @@
         "item_P8NMEm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_60.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -701,6 +703,7 @@
         "item_TNFWfc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_61.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -713,6 +716,7 @@
         "item_mqAktm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_62.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -813,7 +817,6 @@
         "testimonial_KgRPRY",
         "testimonial_brAXJX"
       ],
-      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
