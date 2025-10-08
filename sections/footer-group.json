@@ -80,9 +80,9 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#fbf5f6",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#371a21"
       }
     },
     "footer": {
