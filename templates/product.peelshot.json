@@ -917,7 +917,7 @@
             "style": "fill",
             "size": "lg",
             "text": "BUY NOW",
-            "url": "#shopify-section shopify-section--main-product",
+            "url": "#id=\"shopify-section-template--22995560923159__main\"",
             "background": "#fbf5f6",
             "text_color": "#000000"
           }
