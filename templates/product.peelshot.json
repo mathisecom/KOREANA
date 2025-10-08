@@ -257,6 +257,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_EgThHb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -338,6 +344,7 @@
         }
       },
       "block_order": [
+        "liquid_EgThHb",
         "title",
         "liquid_BEH6Ag",
         "price",
