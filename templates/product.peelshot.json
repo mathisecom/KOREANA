@@ -885,12 +885,15 @@
     "rich_text_DqXKkk": {
       "type": "rich-text",
       "blocks": {
-        "image_yCLGWJ": {
-          "type": "image",
+        "icon_qK79y8": {
+          "type": "icon",
+          "disabled": true,
           "settings": {
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 100
+            "icon": "picto-love",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
           }
         },
         "heading_TUy4wD": {
@@ -921,7 +924,7 @@
         }
       },
       "block_order": [
-        "image_yCLGWJ",
+        "icon_qK79y8",
         "heading_TUy4wD",
         "richtext_Mmi8bY",
         "button_pzCaeh"
