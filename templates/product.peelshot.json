@@ -762,6 +762,7 @@
         "item_Eyk73a": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_65.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -774,6 +775,7 @@
         "item_whtcdk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_63.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
