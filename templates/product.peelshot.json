@@ -347,6 +347,16 @@
             "content": "<ul><li><strong>Exfoliants:</strong> Glycolic Acid (AHA), Lactic Acid (AHA), Salicylic Acid (BHA), Gluconolactone (PHA)<br/></li><li><strong>Brighteners:</strong> Niacinamide, Rice Ferment Filtrate, Rice Bran Water, Black Rice Extract<br/></li><li><strong>Hydrators:</strong> Glycerin, Sodium Hyaluronate, Butylene Glycol, Betaine<br/></li><li><strong>Soothers:</strong> Panthenol, Allantoin, Dipotassium Glycyrrhizate<br/></li><li><strong>Texture/Support:</strong> Hydroxyethylcellulose, Carbomer, PEG/PPG-17/6 Copolymer<br/></li><li><strong>pH adjusters/preservatives:</strong> Tromethamine, Disodium EDTA, Ethylhexylglycerin, 1,2-Hexanediol</li></ul>",
             "page": ""
           }
+        },
+        "collapsible_text_G37zhk": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-question",
+            "icon_width": 16,
+            "title": "Title",
+            "content": "<h3>1. Cleanse Your Skin</h3><p>• Start with a freshly washed and slightly damp face for the best results.<br/><br/>• Gently pat dry with a clean towel, leaving the skin slightly moist.</p><h3>2. Apply the Ampoule</h3><p>• Choose the <strong>White Rice Ampoule</strong> (gentle exfoliation) or the <strong>Black Rice Ampoule</strong> (deep cleansing).<br/><br/>• Apply 1–2 pumps evenly to your face or the desired area.</p><h3>3. Massage Gently</h3><p>• Using your fingertips, massage in circular motions for 30–60 seconds.<br/><br/>• You’ll notice dead skin cells and impurities visibly lifting off.</p><h3>4. Rinse & Continue</h3><p>• Rinse thoroughly with lukewarm water.<br/><br/>• Follow with your favorite toner and moisturizer for hydrated, glowing skin.</p><p>💡 <strong>For best results:</strong> use 2–3 times per week. Avoid overuse, especially on sensitive areas.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -361,7 +371,8 @@
         "liquid_ykbqW6",
         "liquid_bf3czc",
         "collapsible_text_9nNwLk",
-        "collapsible_text_9rBhge"
+        "collapsible_text_9rBhge",
+        "collapsible_text_G37zhk"
       ],
       "settings": {
         "full_width": true,
