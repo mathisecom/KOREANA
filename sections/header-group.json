@@ -23,7 +23,6 @@
         },
         "message": {
           "type": "message",
-          "disabled": true,
           "settings": {
             "text": "Free Shipping",
             "url": ""
@@ -52,8 +51,8 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "autoplay": false,
-        "cycle_speed": 6,
+        "autoplay": true,
+        "cycle_speed": 4,
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,

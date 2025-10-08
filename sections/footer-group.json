@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Contact US",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Email : hello@koreana.com</p><p><strong>Hours</strong>:<strong> </strong>Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</p>",
             "enable_follow_on_shop": false
           }
         }
