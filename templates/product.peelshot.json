@@ -464,8 +464,8 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "",
-        "content": "",
-        "text_alignment": "start",
+        "content": "<h3>Why Choose Us?</h3>",
+        "text_alignment": "center",
         "items_per_row": 6,
         "background": "",
         "background_gradient": "",
@@ -474,6 +474,22 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "scrolling_text_PJLb9H": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#c17982",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
       }
     },
     "faq_AxrYBf": {
@@ -553,6 +569,7 @@
     "multi_column_4rwDtF",
     "main",
     "logo_list_JWDBUP",
+    "scrolling_text_PJLb9H",
     "faq_AxrYBf"
   ]
 }
