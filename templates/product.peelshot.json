@@ -354,6 +354,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_94EB4a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Smooths, Brightens & Instantly Refreshes Your Skin</strong></p>"
+          }
+        },
         "liquid_ExAYDx": {
           "type": "liquid",
           "settings": {
@@ -448,6 +454,7 @@
         "title",
         "liquid_BEH6Ag",
         "price",
+        "text_94EB4a",
         "liquid_ExAYDx",
         "variant_picker",
         "quantity_selector",
