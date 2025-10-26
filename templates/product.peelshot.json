@@ -418,7 +418,7 @@
             "icon": "picto-box",
             "icon_width": 16,
             "title": "Shipping Information",
-            "content": "<p>Order Today, Shipped Tomorrow. Delivery in <strong>5–7 Business Days</strong> with Tracking.</p>",
+            "content": "<p>Order Today, Shipped Tomorrow. Delivery in <strong>5-7 Days</strong> with Tracking.</p>",
             "page": ""
           }
         },
