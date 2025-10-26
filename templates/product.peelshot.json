@@ -383,6 +383,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_9AAig9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_642100e5fc02c0\"></div>"
+          }
+        },
         "liquid_JmTaC7": {
           "type": "liquid",
           "settings": {
@@ -458,6 +464,7 @@
         "liquid_ExAYDx",
         "variant_picker",
         "quantity_selector",
+        "liquid_9AAig9",
         "liquid_JmTaC7",
         "buy_buttons",
         "liquid_naeJmh",
