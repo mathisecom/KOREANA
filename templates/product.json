@@ -36,6 +36,7 @@
       "block_order": [
         "image_Tgpqyb"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -46,7 +47,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -88,6 +89,7 @@
         "logo_R6cNwy",
         "logo_mebBFH"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -126,6 +128,7 @@
         },
         "liquid_ExAYDx": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_kkBVYT\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <!-- Import Material Icons -->\n    <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\n\n    <div class=\"product__text-container\" style=\"padding:0px;\">\n      \n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Instantly removes dead skin cells</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Unclogs pores and reduces blackheads</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Brightens dull skin for a “glass skin” glow</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:5px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Gentle and safe, even for sensitive skin</span>\n      </p>\n\n    </div>\n  </div>\n</div>"
           }
@@ -160,6 +163,7 @@
         },
         "collapsible_text_9nNwLk": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -170,6 +174,7 @@
         },
         "collapsible_text_9rBhge": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -210,6 +215,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "recommendations_count": 6,
         "products": [],
