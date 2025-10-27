@@ -450,7 +450,7 @@
             "icon": "picto-question",
             "icon_width": 16,
             "title": "How to Use It?",
-            "content": "<h3>1. Cleanse Your Skin</h3><p>• Start with a freshly washed and slightly damp face for the best results.<br/><br/>• Gently pat dry with a clean towel, leaving the skin slightly moist.</p><h3>2. Apply the Ampoule</h3><p>• Choose the <strong>White Rice Ampoule</strong> (gentle exfoliation) or the <strong>Black Rice Ampoule</strong> (deep cleansing).<br/><br/>• Apply 1–2 pumps evenly to your face or the desired area.</p><h3>3. Massage Gently</h3><p>• Using your fingertips, massage in circular motions for 30–60 seconds.<br/><br/>• You’ll notice dead skin cells and impurities visibly lifting off.</p><h3>4. Rinse & Continue</h3><p>• Rinse thoroughly with lukewarm water.<br/><br/>• Follow with your favorite toner and moisturizer for hydrated, glowing skin.</p><p>💡 <strong>For best results:</strong> use 2–3 times per week. Avoid overuse, especially on sensitive areas.</p>",
+            "content": "<ul><li><strong>Dr. Melaxin Peel Shot White</strong> – best applied in the morning.</li><li><strong>Dr. Melaxin Peel Shot Black</strong> – best applied in the evening.</li></ul><h3>1. Cleanse Your Skin</h3><p>• Start with a freshly washed and slightly damp face for the best results.<br/><br/>• Gently pat dry with a clean towel, leaving the skin slightly moist.</p><h3>2. Apply the Ampoule</h3><p>• Choose the <strong>White Rice Ampoule</strong> (gentle exfoliation) or the <strong>Black Rice Ampoule</strong> (deep cleansing).<br/><br/>• Apply 1–2 pumps evenly to your face or the desired area.</p><h3>3. Massage Gently</h3><p>• Using your fingertips, massage in circular motions for 30–60 seconds.<br/><br/>• You’ll notice dead skin cells and impurities visibly lifting off.</p><h3>4. Rinse & Continue</h3><p>• Rinse thoroughly with lukewarm water.<br/><br/>• Follow with your favorite toner and moisturizer for hydrated, glowing skin.</p><p>💡 <strong>For best results:</strong> use 2–3 times per week. Avoid overuse, especially on sensitive areas.</p>",
             "page": ""
           }
         }
@@ -490,6 +490,52 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_W88Ata": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MTBfxE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Dr. Melaxin Peel Shot White",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_e3JJb9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Dr. Melaxin Peel Shot Black",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MTBfxE",
+        "item_e3JJb9"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "logo_list_JWDBUP": {
@@ -1061,6 +1107,7 @@
     "slideshow_EjRrCE",
     "multi_column_4rwDtF",
     "main",
+    "multi_column_W88Ata",
     "logo_list_JWDBUP",
     "scrolling_text_PJLb9H",
     "text_with_icons_QzDBD8",
