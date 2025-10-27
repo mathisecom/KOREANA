@@ -498,6 +498,7 @@
         "item_MTBfxE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_18.jpg",
             "column_size": "3",
             "title": "Dr. Melaxin Peel Shot White",
             "heading_tag": "h4",
